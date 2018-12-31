@@ -126,12 +126,14 @@ h1 {
 .banner div.slide_caption p {
     background: none ;
     text-align: center;
-    color: #fff;
+  //  color: #fff;
+  color:black;
     line-height: 2em;
     text-shadow: 1px 1px 5px rgba(150, 150, 150, 1);
 }
 .banner div.slide_caption a {
-	color: #FF6;
+	// color: #FF6;
+    color:darkred;
 }
 .banner div.slide_caption h1 {
     font-size: 32px;
@@ -141,15 +143,15 @@ h1 {
     font-size: 16px;
 }
 .templatemo_banner_slide_01 {
-    background: url('../images/cloud-computing-Nigeria.jpg');
+    background: url('../images/Tekazon.png');
     background-size: cover;
 }
 .templatemo_banner_slide_02 {
-    background: url('../images/templatemo_banner_slide_02.jpg');
+    background: url('../images/Tekazon-banner-slide.jpg');
     background-size: cover;
 }
 .templatemo_banner_slide_03 {
-    background: url('../images/templatemo_banner_slide_03.jpg');
+    background: url('../images/Tekazon-software-development.jpeg');
     background-size: cover;
 }
 /*about our organization*/
